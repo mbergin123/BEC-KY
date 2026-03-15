@@ -240,11 +240,11 @@ This technique prevented the victim from noticing fraudulent financial activity.
 
 ### Malicious Folder Creation
 
-![History Folder](images/history.png)
+![History Folder](images/History.png)
 
 ### Inbox Rule Filtering Withdrawal Emails
 
-![Withdrawal Rule](images/withdrawalrule.png)
+![Withdrawal Rule](images/withdrawalRule.png)
 
 ---
 
